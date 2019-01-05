@@ -1,6 +1,6 @@
 # nagaya-wallet
 Official Nagaya (NGY) Wallet for Windows and Mac
-http://www.nagaya.tech
+https://www.nagaya.co
 
 Copyright (c) 2009-2018 Bitcoin Developers
 Copyright (c) 2018 Nagaya Tech
