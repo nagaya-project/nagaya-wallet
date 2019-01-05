@@ -1,8 +1,10 @@
 # nagaya-wallet
 Official Nagaya (NGY) Wallet for Windows and Mac
+
 https://www.nagaya.co
 
 Copyright (c) 2009-2018 Bitcoin Developers
+
 Copyright (c) 2018 Nagaya Tech
 
 Nagaya is using scrypt as a proof-of-work algorithm.
